@@ -1,0 +1,23 @@
+/* CSS Document */
+
+body{
+	background:#000 url(http://luckywabbit.com/wp-content/uploads/2014/01/paisley_02.jpg) no-repeat top center;
+	color:#fff;
+	}
+
+
+.container-fluid{
+	max-width:993px;
+	text-align:center;
+	margin:15px auto;
+	}
+
+header .branding h1{
+	font-family: 'Poiret One', cursive;
+	font-size:70px;
+	}
+
+img{
+	max-width:100%;
+	}
+
