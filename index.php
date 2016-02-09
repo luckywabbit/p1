@@ -20,8 +20,18 @@
   <div class="row">
     <div class="col-md-12">
       <h2>P1 - Portfolio</h2>
-      <h3>Welcome to my site</h3>
       <img src="img/tmt.jpg"/>
+        <h3>Project 2 Title</h3>
+		<p>View: <a href="#">[link]</a></p>
+		<p>Github: <a href="#">[link]</a></p>
+
+		<h3>Project 3 Title</h3>
+		<p>View: <a href="#">[link]</a></p>
+		<p>Github: <a href="#">[link]</a></p>
+
+		<h3>Project 4 Title</h3>
+		<p>View: <a href="#">[link]</a></p>
+		<p>Github: <a href="#">[link]</a></p>
 
     </div>
   </div>
