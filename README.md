@@ -10,7 +10,7 @@ Set up proof of concept and intro
 https://drive.google.com/file/d/0B3nqEWHg6Uy3RFRkc2FKUVQxbEE/view?pref=2&pli=1
 
 ## Details for teaching team
-No login required.
+Demo video on google drive, open to anyone with the link
 
 
 ## Outside code

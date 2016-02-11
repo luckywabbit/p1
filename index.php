@@ -14,16 +14,20 @@
     <header>
       <div class="col-md-12 branding">
         <h1>T. Michael Tracy</h1>
+        <a href="http://tmikey.com" target="_blank">tmikey.com</a>
+        <a href="http://luckywabbit.com"  target="blank">luckywabbit.com</a>
       </div>
     </header>
   </div>
   <div class="row">
     <div class="col-md-12">
-    <h2>P1 - Portfolio</h2>
-      <div class="demoVid"><a href="https://drive.google.com/file/d/0B3nqEWHg6Uy3RFRkc2FKUVQxbEE/view?usp=sharing"  target="_blank">
-        <img src="img/tmt.jpg"/>
+      <h2>P1 - Portfolio</h2>
+      <div class="demoVid"> 
+      	<a href="https://drive.google.com/file/d/0B3nqEWHg6Uy3RFRkc2FKUVQxbEE/view?usp=sharing"  target="_blank"> 
+        <img src="img/tmt.jpg" alt="tmt"/>
         <p> P1 Demo Video - Click Here</p>
-        </a> </div>
+        </a> 
+      </div>
       <h3>Project 2 Title</h3>
       <p>View: <a href="#">[link]</a></p>
       <p>Github: <a href="#">[link]</a></p>
